@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>category on Perú KUG</title>
+    <link>https://peru-kug.github.io/tags/category/</link>
+    <description>Recent content in category on Perú KUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://peru-kug.github.io/tags/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Item3 Category</title>
+      <link>https://peru-kug.github.io/categories/item3-category/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://peru-kug.github.io/categories/item3-category/</guid>
+      <description>Category #3</description>
+    </item>
+    
+    <item>
+      <title>My Second Category</title>
+      <link>https://peru-kug.github.io/categories/item2-category/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://peru-kug.github.io/categories/item2-category/</guid>
+      <description>This is a second category</description>
+    </item>
+    
+    <item>
+      <title>My First Category</title>
+      <link>https://peru-kug.github.io/categories/item1-category/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://peru-kug.github.io/categories/item1-category/</guid>
+      <description>This is a first category</description>
+    </item>
+    
+  </channel>
+</rss>

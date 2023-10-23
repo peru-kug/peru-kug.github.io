@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Events on Perú KUG</title>
+    <link>https://peru-kug.github.io/events/</link>
+    <description>Recent content in Events on Perú KUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://peru-kug.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meetup 54</title>
+      <link>https://peru-kug.github.io/events/meetup-54-event/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://peru-kug.github.io/events/meetup-54-event/</guid>
+      <description>Meetup #54 - Crea biblioteca de componentes por Alejandro y Vistazo al compilador de Kotlin por Daniel Un vistazo al compilador de kotlin by Daniel Peñaloza
+Crea tu propia librería de componentes by Alejandro Ramirez
+Link youtube - Meetup #54</description>
+    </item>
+    
+    <item>
+      <title>Meetup 53</title>
+      <link>https://peru-kug.github.io/events/meetup-53-event/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://peru-kug.github.io/events/meetup-53-event/</guid>
+      <description>Meetup #53 - Android Nights: with David Hackro Hablemos de excepciones by David Hackro.
+Link youtube - Meetup #53</description>
+    </item>
+    
+    <item>
+      <title>Meetup 49</title>
+      <link>https://peru-kug.github.io/events/meetup-49-event/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://peru-kug.github.io/events/meetup-49-event/</guid>
+      <description>Meetup #49 - Compose Compiler &amp;amp; Runtime por Bruno Aybar y Clean Arch. por Anton Soares y Jose Zea Compose Compiler &amp;amp; Runtime: Beyond Android by Bruno Aybar
+Clean Architecture by Anton Soares y Jose Miguel Zea
+Link youtube - Meetup #49</description>
+    </item>
+    
+    <item>
+      <title>Meetup 46</title>
+      <link>https://peru-kug.github.io/events/meetup-46-event/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://peru-kug.github.io/events/meetup-46-event/</guid>
+      <description>Meetup #46 - Custom Design System with Jetpack Compose Custom Design System with Jetpack Compose by Jorge Rodriguez
+Link youtube - Meetup #46</description>
+    </item>
+    
+  </channel>
+</rss>
